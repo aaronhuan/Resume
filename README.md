@@ -6,7 +6,7 @@ Languages: Python, Java
 EDUCATION
 Boston University| Boston MA Expected May 2026
 Bachelor of Arts in Computer Science
-Relevant Coursework:Data Structures and Algorithms, Discrete Mathematics
+Relevant Coursework: Data Structures and Algorithms, Discrete Mathematics
 SUNY Binghamton| Vestal, NY August 2022 – May 2023
 Bachelor of Arts in Biology, GPA: 3.369
 Relevant Coursework: Calculus 2, Introduction to Coding (Python), Programming in Action
@@ -14,7 +14,7 @@ CodePath | Remote September 2023 – November 2023
 Intro to Web Development Certificate
 WORK EXPERIENCE
 Teaching and Research, Biobus- New York, NY | Junior Scientist June 2023 – August 2023
-● Developed and implementated educational programs focused on biology and environmental science for K-12 students.
+● Developed and implemented educational programs focused on biology and environmental science for K-12 students.
 ● Acted as a principal investigator for high school students engaged in research, providing valuable support and assistance
 throughout their scientific endeavors that will be presented in a symposium.
 New York City Virus Hunter, Biobus- New York, NY | Junior Scientist November 2021 – June 2022
@@ -44,12 +44,12 @@ weekly meetings and promote camaraderie and knowledge acquisition among the stud
 PROJECTS
 Escape Room Game | Python Academic Project
 ● Co-developed and collaborated with a team member to create a suspenseful and challenging gaming experience using
-dictionary and time module.
+a dictionary and time module.
 ● Implemented room layouts, user input validation, and game logic in Python programming, data structures, and
 problem-solving.
 World Death Data | Python Academic Project
-● Manipulated World Death Causes dataset from Kaggle, converting it into a CSV and grouping specific data for ease in usage.
+● Manipulated the World Death Causes dataset from Kaggle, converting it into a CSV and grouping specific data for ease in usage.
 ● Created visualizations using NumPy and Matplotlib libraries to analyze the relationship between various factors such as death
-from Alzhiemers and Parkinsons in 2019.
+from Alzheimers and Parkinsons in 2019.
 AWARDS
 Albert Shanker College Scholarship, Second Place Proposal Project (Scientific Proposal Project for BIOL 113)
